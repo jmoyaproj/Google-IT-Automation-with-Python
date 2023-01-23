@@ -1,5 +1,5 @@
 # Google-IT-Automation-with-Python
-## Google IT Automation with Python Professional Certificate\
+## Google IT Automation with Python Professional Certificate
 ### Crash Course on Python
 
 **Week 1 - Hello Python!**
