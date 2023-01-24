@@ -5,7 +5,7 @@
 **Week 1 - Hello Python!**
 - [x] Introduction to Programming
 - [x] Introduction to Python
-- [ ] Hello World
+- [x] Hello World
 - [ ] Module Review
 
 **Week 2 - Basic Python Syntax**
