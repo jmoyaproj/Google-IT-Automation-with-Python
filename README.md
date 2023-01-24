@@ -6,7 +6,7 @@
 - [x] Introduction to Programming
 - [x] Introduction to Python
 - [x] Hello World
-- [ ] Module Review
+- [x] Module Review
 
 **Week 2 - Basic Python Syntax**
 - [ ] Expressions and Variables
