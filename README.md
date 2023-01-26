@@ -9,7 +9,7 @@
 - [x] Module Review
 
 **Week 2 - Basic Python Syntax**
-- [ ] Expressions and Variables
+- [x] Expressions and Variables
 - [ ] Functions
 - [ ] Conditionals
 - [ ] Module Review
