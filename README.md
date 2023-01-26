@@ -10,7 +10,7 @@
 
 **Week 2 - Basic Python Syntax**
 - [x] Expressions and Variables
-- [ ] Functions
+- [x] Functions
 - [ ] Conditionals
 - [ ] Module Review
 
