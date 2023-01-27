@@ -12,7 +12,7 @@
 - [x] Expressions and Variables
 - [x] Functions
 - [x] Conditionals
-- [ ] Module Review
+- [x] Module Review
 
 **Week 3 - Loops**
 - [ ] While Loops
