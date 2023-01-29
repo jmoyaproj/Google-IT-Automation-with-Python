@@ -15,7 +15,7 @@
 - [x] Module Review
 
 **Week 3 - Loops**
-- [ ] While Loops
+- [x] While Loops
 - [ ] For Loops
 - [ ] Recursion
 - [ ] Module Review
