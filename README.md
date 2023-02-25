@@ -17,8 +17,8 @@
 **Week 3 - Loops**
 - [x] While Loops
 - [x] For Loops
-- [X] Recursion
-- [ ] Module Review
+- [x] Recursion
+- [x] Module Review
 
 **Week 4 - Strings, Lists, and Dictionaries**
 - [ ] Strings
