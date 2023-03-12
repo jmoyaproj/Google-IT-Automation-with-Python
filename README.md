@@ -21,7 +21,7 @@
 - [x] Module Review
 
 **Week 4 - Strings, Lists, and Dictionaries**
-- [ ] Strings
+- [x] Strings
 - [ ] Lists
 - [ ] Dictionaries
 - [ ] Module Review
